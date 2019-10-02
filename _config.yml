@@ -1,6 +1,6 @@
 title: Hujiang's homepage
 logo: /assets/img/hujiang.jpg
 description: Ph.D. candidate from Peking University
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
