@@ -52,7 +52,7 @@ Peking University, 2016-2020.
 
 # Technical strength
  
-  **Mathematical Software** Python, Matlab, Latex
-  **Languages**             Chinese (Native), English (Fluent)
+-**Mathematical Software** Python, Matlab, Latex
+-**Languages**             Chinese (Native), English (Fluent)
 
 
