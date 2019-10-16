@@ -25,7 +25,7 @@ Advisor: Professor Zaiwen Wen
    5. J. Hu, B. Jiang, X. Liu, Z. Wen (2016). A note on semidefinite programming relaxations for
       polynomial optimization over a single sphere. Science China Mathematics, 59(8), 1543-1560.
 
-#Presentations
+# Presentations
 * The 11th International Conference on Numerical Optimization and Numerical Linear Algebra,
 2017.08, Yinchuan, China
 * The 23nd International Symposium on Mathematical Programming (ISMP 2018), 2018.07, Bordeaux,
@@ -53,6 +53,7 @@ Peking University, 2016-2020.
 # Technical strength
  
   **Mathematical Software** Python, Matlab, Latex
+  
   **Languages**             Chinese (Native), English (Fluent)
 
 
