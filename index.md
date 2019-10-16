@@ -1,123 +1,58 @@
 ---
 layout: default
 ---
+I am now a fifth year Ph.D. student at Peking university. My current research focuses on theory and algorithm of manifold optimization and its applications arising
+from machine learning, statistics and image processing.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Education
 
-[Link to another page](./another-page.html).
+* September 2011 - July 2015
+B.S. in Applied Mathematics, Hunan University, Changsha, China
+* September 2015 - Present
+Ph.D. in Computational Mathematics, Peking University, Beijing, China
+Advisor: Professor Zaiwen Wen
 
-There should be whitespace between paragraphs.
+# Publications
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* Book:
+   1. H. Liu, J. Hu, Y. Li, Z. Wen, Computational Methods For Optimization (in Chinese), submitted.
+* Research articles:
+   2. J. Hu, X. Liu, Z. Wen, Y. Yuan, A Brief Introduction to Manifold Optimization, arXiv:1906.05450.
+   3. J. Hu, B. Jiang, L. Lin, Z. Wen, Y. Yuan (2019), Structured Quasi-Newton Methods for Optimization
+      with Orthogonality Constraints, SIAM Journal on Scientific Computing, 41(4), A2239–A2269.
+   4. J. Hu, A. Milzarek, Z. Wen, Y. Yuan (2018). Adaptive Quadratically Regularized Newton Method
+      for Riemannian Optimization. SIAM Journal on Matrix Analysis and Applications, 39(3), 1181–1207.
+   5. J. Hu, B. Jiang, X. Liu, Z. Wen (2016). A note on semidefinite programming relaxations for
+      polynomial optimization over a single sphere. Science China Mathematics, 59(8), 1543-1560.
 
-# Header 1
+#Presentations
+* The 11th International Conference on Numerical Optimization and Numerical Linear Algebra,
+2017.08, Yinchuan, China
+* The 23nd International Symposium on Mathematical Programming (ISMP 2018), 2018.07, Bordeaux,
+France
+* The 12th International Conference on Numerical Optimization and Numerical Linear Algebra,
+2019.04, Shangrao, China
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Honors and rawards
 
-## Header 2
+* The Elite Program of Computational and Applied Mathematics for Ph.D. Candidates (< 10%),
+Peking University, 2016-2020.
+* The President Scholarship (< 20%), Peking University, 2016-2017, 2017-2018, 2019-2020.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Softwares
+* ARNT: A MATLAB software for solving optimization problems on manifold.
+(https://github.com/wenstone/ARNT)
+* ASQN: Structured quasi-Newton method for solving optimization with orthogonality constraints.
+(https://github.com/wenstone/ASQN)
 
-### Header 3
+# Teaching Assistant
+* Optimization algorithms for big data analysis, 2016 Spring
+* Convex optimization, 2016 Autumn and 2018 Autumn
+* Applied partial differential equation, 2017 Autumn
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Technical strength
+ 
+  **Mathematical Software** Python, Matlab, Latex
+  **Languages**             Chinese (Native), English (Fluent)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
