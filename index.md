@@ -33,7 +33,7 @@ France
 * The 12th International Conference on Numerical Optimization and Numerical Linear Algebra,
 2019.04, Shangrao, China
 
-# Honors and rawards
+# Honors and awards
 
 * The Elite Program of Computational and Applied Mathematics for Ph.D. Candidates (< 10%),
 Peking University, 2016-2020.
@@ -53,7 +53,6 @@ Peking University, 2016-2020.
 # Technical strength
  
   **Mathematical Software** Python, Matlab, Latex
-  
   **Languages**             Chinese (Native), English (Fluent)
 
 
