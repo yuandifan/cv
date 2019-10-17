@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
+
+<font size=10> 
 I am now a fifth year Ph.D. student at Peking university. My current research focuses on theory and algorithm of manifold optimization and its applications arising
 from machine learning, statistics and image processing.
 
 # Education
 
 * September 2011 - July 2015
-B.S. in Applied Mathematics, Hunan University, Changsha, China
+B.S. in Applied Mathematics, Hunan University, Changsha, China   
 * September 2015 - Present
-Ph.D. in Computational Mathematics, Peking University, Beijing, China
+Ph.D. in Computational Mathematics, Peking University, Beijing, China   
 Advisor: Professor Zaiwen Wen
 
 # Publications
@@ -54,5 +56,5 @@ Peking University, 2016-2020.
  
 **Mathematical Software** Python, Matlab, Latex     
 **Languages**             Chinese (Native), English (Fluent)
-
+</font>
 
