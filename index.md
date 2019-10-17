@@ -16,19 +16,19 @@ Advisor: Professor Zaiwen Wen
 # Publications
 
 * Book:
-   1. H. Liu, **J. Hu**, Y. Li, Z. Wen, Computational Methods For Optimization (in Chinese), submitted.
-* Research articles:
+   1. H. Liu, **J. Hu**, Y. Li, Z. Wen, Computational Methods For Optimization (in Chinese), submitted.  
+* Research articles:  
    2. **J. Hu**, X. Liu, Z. Wen, Y. Yuan, A Brief Introduction to Manifold Optimization, arXiv:1906.05450.  
-   [[arXiv]](https://arxiv.org/abs/1906.05450)
+   [[arXiv]](https://arxiv.org/abs/1906.05450)  
    3. **J. Hu**, B. Jiang, L. Lin, Z. Wen, Y. Yuan (2019), Structured Quasi-Newton Methods for Optimization
-      with Orthogonality Constraints, SIAM Journal on Scientific Computing, 41(4), A2239–A2269.   
-   [[arXiv]](https://arxiv.org/abs/1809.00452) [[journal]](https://epubs.siam.org/doi/pdf/10.1137/18M121112X) [[code]](https://github.com/wenstone/ASQN)    
+      with Orthogonality Constraints, SIAM Journal on Scientific Computing, 41(4), A2239–A2269.     
+   [[arXiv]](https://arxiv.org/abs/1809.00452) [[journal]](https://epubs.siam.org/doi/pdf/10.1137/18M121112X) [[code]](https://github.com/wenstone/ASQN)      
    4. **J. Hu**, A. Milzarek, Z. Wen, Y. Yuan (2018). Adaptive Quadratically Regularized Newton Method
       for Riemannian Optimization. SIAM Journal on Matrix Analysis and Applications, 39(3), 1181–1207.  
-   [[arXiv]](https://arxiv.org/abs/1708.02016) [[journal]](https://epubs.siam.org/doi/pdf/10.1137/17M1142478) [[code]](https://github.com/wenstone/ARNT)
+   [[arXiv]](https://arxiv.org/abs/1708.02016) [[journal]](https://epubs.siam.org/doi/pdf/10.1137/17M1142478) [[code]](https://github.com/wenstone/ARNT)  
    5. **J. Hu**, B. Jiang, X. Liu, Z. Wen (2016). A note on semidefinite programming relaxations for
       polynomial optimization over a single sphere. Science China Mathematics, 59(8), 1543-1560.     
-   [[journal]](https://link.springer.com/article/10.1007/s11425-016-0301-5)
+   [[journal]](https://link.springer.com/article/10.1007/s11425-016-0301-5)  
 
 # Presentations
 * The 11th International Conference on Numerical Optimization and Numerical Linear Algebra,
