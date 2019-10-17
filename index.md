@@ -7,9 +7,9 @@ from machine learning, statistics and image processing.
 
 # Education
 
-* September 2011 - July 2015
+* September 2011 - July 2015  
 B.S. in Applied Mathematics, Hunan University, Changsha, China   
-* September 2015 - Present
+* September 2015 - Present  
 Ph.D. in Computational Mathematics, Peking University, Beijing, China   
 Advisor: Professor Zaiwen Wen
 
