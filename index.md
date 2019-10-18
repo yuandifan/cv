@@ -16,7 +16,8 @@ Advisor: Professor Zaiwen Wen
 # Publications
 
 * Book:
-   1. H. Liu, **J. Hu**, Y. Li, Z. Wen, Computational Methods For Optimization (in Chinese), submitted.  
+   1. H. Liu, **J. Hu**, Y. Li, Z. Wen, Computational Methods For Optimization (in Chinese), submitted.    
+   [[content]](http://bicmr.pku.edu.cn/~wenzw/optbook.html)
 * Research articles:  
    2. **J. Hu**, X. Liu, Z. Wen, Y. Yuan, A Brief Introduction to Manifold Optimization, arXiv:1906.05450.  
    [[arXiv]](https://arxiv.org/abs/1906.05450)  
