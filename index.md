@@ -24,13 +24,14 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
 * Research articles:  
 
    1. F. M. Huang; T, H, Li;  **D. F. Yuan**, Global Entropy Solutions to Multi-Dimensional Isentropic Gas Dynamics with Spherical Symmetry. Nonlinearity, (2019),32(11):4505-4523.    
-   [[arXiv]](https://arxiv.org/abs/1711.04430) [[journal]]( https://doi.org/10.1088/1361-6544/ab31ce) [[code]](https://github.com/wenstone/ASQN)      
+   [[arXiv]](https://arxiv.org/abs/1711.04430) [[journal]]( https://doi.org/10.1088/1361-6544/ab31ce) (https://github.com/wenstone/ASQN)      
    2.	W. T. Cao, F. M. Huang, D. F. Yuan, Global Entropy Solutions to the Gas Flow in General Nozzle. SIAM J. Math. Anal. 51-4. (2019) , 3276-3297
-   [[arXiv]](https://arxiv.org/abs/1903.04010) [[journal]](https://doi.org/10.1137/19M1249436) [[code]](https://github.com/wenstone/ARNT)  
+   [[arXiv]](https://arxiv.org/abs/1903.04010) [[journal]](https://doi.org/10.1137/19M1249436)
+   (https://github.com/wenstone/ARNT)  
    3.	F. M. Huang, T. H. Li, H. M. Yu, **D. F. Yuan**, Large time behavior of entropy solutions to one-dimensional unipolar hydrodynamic model for semiconductor devices. Z. Angew. Math. Phys. 69 (2018), no. 3, Art. 69, 12.  
-   [[arXiv]](https://arxiv.org/abs/1711.05870) [[journal]](https://doi.org/10.1007/s00033-018-0968-z)   [[code]](https://github.com/wenstone/ARNT)  
+   [[arXiv]](https://arxiv.org/abs/1711.05870) [[journal]](https://doi.org/10.1007/s00033-018-0968-z)  (https://github.com/wenstone/ARNT)  
    4. F. M. Huang, D. H. Wang, **D. F. Yuan**, Nonlinear stability and existence of vortex sheets for inviscid liquid-gas two-phase flow. Discrete Contin. Dyn. Syst. Ser. A, (2019), 39(6): 3535-3575.
-      [[arXiv]](https://arxiv.org/abs/1808.05905) [[journal]](https://www.aimsciences.org/article/doi/10.3934/dcds.2019146)   [[code]](https://github.com/wenstone/ARNT)  
+      [[arXiv]](https://arxiv.org/abs/1808.05905) [[journal]](https://www.aimsciences.org/article/doi/10.3934/dcds.2019146)   (https://github.com/wenstone/ARNT)  
    5.	G. Q. Chen, L. He, Y. Wang,**D. F. Yuan**, Global existence of weak solution to the compressible Euler-Poisson equations with spherical symmetry and large initial data, in preparation.
    6. R. M. Chen, F. M. Huang, D. H. Wang, **D. F. Yuan**, Stabilization effect of elasticity on compressible vortex sheets in three-dimensional elastodynamics, in preparation.  
 
