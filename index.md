@@ -54,12 +54,14 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
    6. R. M. Chen, F. M. Huang, D. H. Wang, **D. F. Yuan**, Stabilization effect of elasticity on compressible vortex sheets in three-dimensional elastodynamics, in preparation.  
 
 # Presentations
-* Workshop on Nonlinear PDE seminar, University of Chinese Academy of Sciences,
-2017.09, Beijing, China
-* XVII International Conference on Hyperbolic Problems: Theory, Numerics, Applications, Pennsylvania State University, 
-2018.06, University Park, USA
+
 * Local and Nonlocal Trends in Analysis and Geometry, poster session,
 2019.10, University of Pittsburgh, USA
+* XVII International Conference on Hyperbolic Problems: Theory, Numerics, Applications, Pennsylvania State University, 
+2018.06, University Park, USA
+* Workshop on Nonlinear PDE seminar, University of Chinese Academy of Sciences,
+2017.09, Beijing, China
+
 
 # Honors and awards
 
