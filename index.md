@@ -15,8 +15,8 @@ Advisor: Professor Feimin Huang
 Joint Ph.D. student, University of Pittsburgh, Pittsburgh, USA
 Advisor: Professor Dehua Wang
 * March 2017 - April 2017
-Visiting Scholar in Department of Mathematics, University of Pittsburgh, Pittsburgh, USA 
-* September 2010- July 2014 
+Visiting Scholar, University of Pittsburgh, Pittsburgh, USA 
+* September 2010 - July 2014 
 B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
 
 # Publications
