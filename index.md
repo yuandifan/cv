@@ -11,6 +11,7 @@ I am now a fifth year Ph.D. student at University of Chinese Academy of Sciences
 * September 2014 - December 2019 (expected)  
 
 Ph.D. Candidate in Mathematics, University of Chinese Academy of Sciences, Beijing, China
+
 Advisor: Professor Feimin Huang
 
 Research Project: Compensated compactness method
@@ -18,6 +19,7 @@ Research Project: Compensated compactness method
 * December 2017 - Present  
 
 Joint Ph.D. student, University of Pittsburgh, Pittsburgh, USA
+
 Advisor: Professor Dehua Wang
 
 Research Project: Compressible vortex sheets in elastodynamics
