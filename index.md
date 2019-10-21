@@ -9,13 +9,18 @@ I am now a fifth year Ph.D. student at University of Chinese Academy of Sciences
 # Education
 
 * September 2014 - December 2019 (expected)  
+
 Ph.D. Candidate in Mathematics, University of Chinese Academy of Sciences, Beijing, China
 Advisor: Professor Feimin Huang
+
 * December 2017 - Present  
+
 Joint Ph.D. student, University of Pittsburgh, Pittsburgh, USA
 Advisor: Professor Dehua Wang
+
 * March 2017 - April 2017
 Visiting Scholar, University of Pittsburgh, Pittsburgh, USA 
+
 * September 2010 - July 2014 
 B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
 
