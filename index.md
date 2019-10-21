@@ -40,7 +40,7 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
    1. F. M. Huang; T, H, Li;  **D. F. Yuan**, Global Entropy Solutions to Multi-Dimensional Isentropic Gas Dynamics with Spherical Symmetry. Nonlinearity, (2019),32(11):4505-4523.    
    [[arXiv]](https://arxiv.org/abs/1711.04430) [[journal]]( https://doi.org/10.1088/1361-6544/ab31ce) 
    
-   2.	W. T. Cao, F. M. Huang, D. F. Yuan, Global Entropy Solutions to the Gas Flow in General Nozzle. SIAM J. Math. Anal. 51-4. (2019) , 3276-3297
+   2.	W. T. Cao, F. M. Huang, **D. F. Yuan**, Global Entropy Solutions to the Gas Flow in General Nozzle. SIAM J. Math. Anal. 51-4. (2019) , 3276-3297
    [[arXiv]](https://arxiv.org/abs/1903.04010) [[journal]](https://doi.org/10.1137/19M1249436)
     
    3.	F. M. Huang, T. H. Li, H. M. Yu, **D. F. Yuan**, Large time behavior of entropy solutions to one-dimensional unipolar hydrodynamic model for semiconductor devices. Z. Angew. Math. Phys. 69 (2018), no. 3, Art. 69, 12.  
