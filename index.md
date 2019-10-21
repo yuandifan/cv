@@ -56,7 +56,8 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
 # Presentations
 * Workshop on Nonlinear PDE seminar, University of Chinese Academy of Sciences,
 2017.09, Beijing, China
-* XVII International Conference on Hyperbolic Problems: Theory, Numerics, Applications, Pennsylvania State University, 2018.06, University Park, USA
+* XVII International Conference on Hyperbolic Problems: Theory, Numerics, Applications, Pennsylvania State University, 
+2018.06, University Park, USA
 * Local and Nonlocal Trends in Analysis and Geometry, poster session,
 2019.10, University of Pittsburgh, USA
 
@@ -65,16 +66,16 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
 * The President Scholarship of University of Chinese Academy of Sciences (<1%) ,2019.
 * China government scholarship, 2017-2019.
 * Merit Student in University of Chinese Academy of Sciences,2017.
-* National Scholarship(<1%),2012-2013
-* National Scholarship(<1%),2013-2014
+* National Scholarship(<1%),2012-2013.
+* National Scholarship(<1%),2013-2014.
 
 # Teaching Assistant
-*  Hyperbolic Conservation Laws And Compensated compactness method, University of Chinese Academy of Sciences, China, 2016
-*  Summer school in Nonlinear PDE, Northwest University, China, 2017
-*  Vortex sheet solutions, University of Pittisburgh, USA, 2018
+*  Hyperbolic Conservation Laws And Compensated compactness method, University of Chinese Academy of Sciences, China, 2016.
+*  Summer school in Nonlinear PDE, Northwest University, China, 2017.
+*  Vortex sheet solutions, University of Pittisburgh, USA, 2018.
 
 # Technical strength
  
-**Mathematical Software** Matlab, Latex     
+**Mathematical Software** Matlab, Latex, Mathematica     
 **Languages**             Chinese (Native), English (Fluent)
 
