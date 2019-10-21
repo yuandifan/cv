@@ -72,9 +72,10 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
 * National Scholarship(<1%),2013-2014.
 
 # Teaching Assistant
-*  Hyperbolic Conservation Laws And Compensated compactness method, University of Chinese Academy of Sciences, China, 2016.
-*  Summer school in Nonlinear PDE, Northwest University, China, 2017.
+
 *  Vortex sheet solutions, University of Pittisburgh, USA, 2018.
+*  Summer school in Nonlinear PDE, Northwest University, China, 2017.
+*  Hyperbolic Conservation Laws And Compensated compactness method, University of Chinese Academy of Sciences, China, 2016.
 
 # Technical strength
  
