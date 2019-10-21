@@ -2,7 +2,9 @@
 layout: default
 ---
 
-I am now a fifth year Ph.D. student at Peking university. My current research focuses on theory and algorithm of manifold optimization and its applications arising
+# Short biography
+
+I am now a fifth year Ph.D. student at Peking University. My current research focuses on theory and algorithm of manifold optimization and its applications arising
 from machine learning, statistics and image processing.
 
 # Education
