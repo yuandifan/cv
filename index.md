@@ -49,7 +49,7 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
    4. F. M. Huang, D. H. Wang, **D. F. Yuan**, Nonlinear stability and existence of vortex sheets for inviscid liquid-gas two-phase flow. Discrete Contin. Dyn. Syst. Ser. A, (2019), 39(6): 3535-3575.
       [[arXiv]](https://arxiv.org/abs/1808.05905) [[journal]](https://www.aimsciences.org/article/doi/10.3934/dcds.2019146)   
       
-   5.	G. Q. Chen, L. He, Y. Wang,**D. F. Yuan**, Global existence of weak solution to the compressible Euler-Poisson equations with spherical symmetry and large initial data, in preparation.
+   5.	G. Q. Chen, L. He, Y. Wang, **D. F. Yuan**, Global existence of weak solution to the compressible Euler-Poisson equations with spherical symmetry and large initial data, in preparation.
    
    6. R. M. Chen, F. M. Huang, D. H. Wang, **D. F. Yuan**, Stabilization effect of elasticity on compressible vortex sheets in three-dimensional elastodynamics, in preparation.  
 
