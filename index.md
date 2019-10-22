@@ -14,7 +14,7 @@ Ph.D. Candidate in Mathematics, University of Chinese Academy of Sciences, Beiji
 
 Advisor: Professor Feimin Huang
 
-Research Project: Compensated compactness method
+Research Project: Compressible Euler equations & Compensated compactness method
 
 * December 2017 - Present  
 
