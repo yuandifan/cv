@@ -49,27 +49,25 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
    4. F. M. Huang, D. H. Wang, **D. F. Yuan**, Nonlinear stability and existence of vortex sheets for inviscid liquid-gas two-phase flow. Discrete Contin. Dyn. Syst. Ser. A, (2019), 39(6): 3535-3575.
       [[arXiv]](https://arxiv.org/abs/1808.05905) [[journal]](https://www.aimsciences.org/article/doi/10.3934/dcds.2019146)   
       
-   5.	G. Q. Chen, L. He, Y. Wang, **D. F. Yuan**, Global existence of weak solution to the compressible Euler-Poisson equations with spherical symmetry and large initial data, in preparation.
-   
-   6. R. M. Chen, F. M. Huang, D. H. Wang, **D. F. Yuan**, Stabilization effect of elasticity on compressible vortex sheets in three-dimensional elastodynamics, in preparation.  
 
 # Presentations
 
-* Local and Nonlocal Trends in Analysis and Geometry, poster session,
-2019.10, University of Pittsburgh, USA
-* XVII International Conference on Hyperbolic Problems: Theory, Numerics, Applications, Pennsylvania State University, 
-2018.06, University Park, USA
-* Workshop on Nonlinear PDE seminar, University of Chinese Academy of Sciences,
-2017.09, Beijing, China
+* Local and Nonlocal Trends in Analysis and Geometry, Poster Session,
+ University of Pittsburgh, USA, Oct. 2019.
+* XVII International Conference on Hyperbolic Problems: Theory, Numerics, Applications, Contributed Talk, Pennsylvania State University, 
+ University Park, USA, June. 2018.
+* Workshop on Nonlinear PDE seminar, Contributed Talk, University of Chinese Academy of Sciences,
+ Beijing, China, Sep. 2017.
 
 
-# Honors and awards
+# Honors And Awards
 
-* The President Scholarship of University of Chinese Academy of Sciences (<1%) ,2019.
+* The President Scholarship of University of Chinese Academy of Sciences (<1%), 2019.
 * China government scholarship, 2017-2019.
-* Merit Student in University of Chinese Academy of Sciences,2017.
-* National Scholarship(<1%),2012-2013.
-* National Scholarship(<1%),2013-2014.
+* Merit Student in University of Chinese Academy of Sciences, 2017.
+* National Scholarship(<1%), 2013-2014.
+* National Scholarship(<1%), 2012-2013.
+* First Prize Scholarship(<5%), 2011-2012.
 
 # Teaching Assistant
 
@@ -77,8 +75,12 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
 *  Summer school in Nonlinear PDE, Northwest University, China, 2017.
 *  Hyperbolic Conservation Laws And Compensated compactness method, University of Chinese Academy of Sciences, China, 2016.
 
+# Graduate Coursework
+Real, harmonic, functional analysis; Nonlinear PDE; Differential Geometry; Elliptic and parabolic equations; Asymptotic methods in mathematical physics; Stochastic PDE: theory and numerical methods; Nonlinear analysis and its application in nonlinear PDE; Introduction in Navier-Stokes equations; Frontier in Applied Mathematics.
+
+
 # Technical strength
  
-**Mathematical Software** Matlab, Latex, Mathematica     
+**Mathematical Software** C, Matlab, Latex, Mathematica     
 **Languages**             Chinese (Native), English (Fluent)
 
