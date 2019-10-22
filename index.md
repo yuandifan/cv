@@ -60,7 +60,7 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
  Beijing, China, Sep. 2017.
 
 
-# Honors And Awards
+# Honors and Awards
 
 * The President Scholarship of University of Chinese Academy of Sciences (<1%), 2019.
 * China government scholarship, 2017-2019.
@@ -69,7 +69,7 @@ B.S. in Mathematics and Applied Mathematics, Hunan University, Hunan, China
 * National Scholarship(<1%), 2012-2013.
 * First Prize Scholarship(<5%), 2011-2012.
 
-# Teaching Assistant
+# Teaching Experience 
 
 *  Vortex sheet solutions, University of Pittisburgh, USA, 2018.
 *  Summer school in Nonlinear PDE, Northwest University, China, 2017.
